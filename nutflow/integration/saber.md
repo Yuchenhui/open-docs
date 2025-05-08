@@ -14,7 +14,7 @@ TIP
 
 1.1、拷贝流程设计器与表单设计器  
 
-![流程设计器与表单设计器](https://cdn.nutflow.vip/docs/image-20220221132804017.png)
+![流程设计器与表单设计器](https://raw.githubusercontent.com/Yuchenhui/notes/main/pic/1746692959843.png)
 
 1.2、配置/public/index.html  
 
@@ -58,15 +58,15 @@ npm i echarts
 
 2、拷贝页面到/src/views/plugin目录下  
 
-![拷贝页面](https://cdn.nutflow.vip/docs/image-20220221133311384.png)
+![拷贝页面](https://raw.githubusercontent.com/Yuchenhui/notes/main/pic/1746692980494.png)
 
 3、拷贝api到/src/api/plugin目录下  
 
-![拷贝api](https://cdn.nutflow.vip/docs/image-20220221133450641.png)
+![拷贝api](https://raw.githubusercontent.com/Yuchenhui/notes/main/pic/1746693002715.png)
 
 4、配置/src/router/views/index.js
 
-![配置路由](https://cdn.nutflow.vip/docs/image-20220221133640678.png)
+![配置路由](https://raw.githubusercontent.com/Yuchenhui/notes/main/pic/1746693023491.png)
 
 ```js
 {

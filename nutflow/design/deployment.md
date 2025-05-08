@@ -7,4 +7,4 @@ TIP
 
 部署后的流程会出现在这
 
-![](https://cdn.nutflow.vip/docs/image-20220222153401816.png)
+![](https://raw.githubusercontent.com/Yuchenhui/notes/main/pic/1746692515925.png)

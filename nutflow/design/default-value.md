@@ -5,4 +5,4 @@
 * 若表单式中的代码无法执行，则会返回原值！插件内置了6个input字段的默认值配置，使用方法一看便知。具体实现逻辑在`src/views/plugin/workflow/mixins/default-values.js`中。
 * 字段类型指的是avue配置中的type。
 
-![](https://cdn.nutflow.vip/docs/image-20220222141031454.png)
+![](https://raw.githubusercontent.com/Yuchenhui/notes/main/pic/1746692489838.png)
